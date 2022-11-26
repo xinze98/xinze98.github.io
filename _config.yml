@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Homepage"
-description              : "Homepage of Xinze Shen."
+description              : # "Homepage of Xinze Shen."
 repository               : "xinze98/xinze98.github.io"
 google_scholar_stats_use_cdn : true
 
