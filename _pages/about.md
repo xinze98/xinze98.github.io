@@ -25,7 +25,7 @@ I'm a Ph.D. student at Nanjing University of Science and Technology. My research
 
 
 # 🎖 Honors and Awards
-None.
+None.😂
 
 # 📖 Educations
 - *2020.09 - present*, **Nanjing University of Science and Technology**, Ph.D. in Mechanical Engineering. 
