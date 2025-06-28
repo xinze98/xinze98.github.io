@@ -34,7 +34,7 @@ I'm a Ph.D. student at Nanjing University of Science and Technology. My research
 </td>
 <td style="vertical-align: top; border: none; width: 61.8%;">
     <p><strong><a href="https://ieeexplore.ieee.org/abstract/document/10188897">TranSDFNet: Transformer-based truncated signed distance fields for the shape design of removable partial denture clasps</a></strong></p>
-    <p><u>Xinze Shen</u>, Changdong Zhang, Xiuyi Jia, Dawei Li, Tingting Liu, Sukun Tian, Wei Wei, Yuchun Sun, Wenhe Liao<br><strong>IEEE Journal of Biomedical and Health Informatics</strong>, 2023</p>
+    <p><u>Xinze Shen</u>, Changdong Zhang, Xiuyi Jia, Dawei Li, Tingting Liu, Sukun Tian, Wei Wei, Yuchun Sun, Wenhe Liao<br><em>IEEE Journal of Biomedical and Health Informatics</em>, 2023</p>
 </td>
 </tr>
 </table>
