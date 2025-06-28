@@ -20,7 +20,8 @@ redirect_from:
 I'm a Ph.D. student at Nanjing University of Science and Technology. My research interests include structural optimization, machine learning and medical image analysis.
 
 # 📝 Publications 
-- *2022.11* XXX
+## 2023
+- **Shen X**, Zhang C, Jia X, et al. [TranSDFNet: Transformer-based truncated signed distance fields for the shape design of removable partial denture clasps. IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/abstract/document/10188897), 2023, 27(10): 4950-4960.
 
 
 # 🎖 Honors and Awards
