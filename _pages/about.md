@@ -37,6 +37,18 @@ I'm a Ph.D. student at Nanjing University of Science and Technology. My research
     <p><u>Xinze Shen</u>, Changdong Zhang, Xiuyi Jia, Dawei Li, Tingting Liu, Sukun Tian, Wei Wei, Yuchun Sun, Wenhe Liao<br><em>IEEE Journal of Biomedical and Health Informatics</em>, 2023</p>
 </td>
 </tr>
+<tr>
+<td style="padding-right: 20px; vertical-align: top; border: none;">
+    <div style="border: 0px solid #ddd; border-radius: 5px; padding: 1px; background-color: white;display: inline-block;">
+        <img src="/images/paper-fig/configuration-decoupled.png" alt="configuration-decoupled" 
+             style="max-width: 100%; height: auto; box-shadow: 0px 0px 10px rgba(0,0,0,0.2);display: block;">
+    </div>
+</td>
+<td style="vertical-align: top; border: none; width: 61.8%;">
+    <p><strong><a href="https://www.sciencedirect.com/science/article/pii/S0045782525006772?via%3Dihub">Configuration-decoupled concurrent topology optimization of heterogeneous lattice structures</a></strong></p>
+    <p><u>Xinze Shen</u>, Changdong Zhang, Wenhe Liao, Dawei Li, Tingting Liu<br><em>Computer Methods in Applied Mechanics and Engineering</em>, 2023</p>
+</td>
+</tr>
 </table>
 </div>
 
