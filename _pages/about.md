@@ -52,7 +52,7 @@ I'm a Ph.D. student at Nanjing University of Science and Technology. My research
 </td>
 <td style="vertical-align: top; border: none; width: 61.8%;">
     <p><strong><a href="https://www.sciencedirect.com/science/article/pii/S0045782525006772?via%3Dihub">Configuration-decoupled concurrent topology optimization of heterogeneous lattice structures</a></strong></p>
-    <p><u>Xinze Shen</u>, Changdong Zhang, Wenhe Liao, Dawei Li, Tingting Liu<br><em>Computer Methods in Applied Mechanics and Engineering</em>, 2023</p>
+    <p><u>Xinze Shen</u>, Changdong Zhang, Wenhe Liao, Dawei Li, Tingting Liu<br><em>Computer Methods in Applied Mechanics and Engineering</em>, 2025</p>
 </td>
 </tr>
 </table>
